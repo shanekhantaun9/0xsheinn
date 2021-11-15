@@ -5,7 +5,7 @@
 <p alighn="center">
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xsheinn&repo=web_development)](https://github.com/0xsheinn/web_development)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xsheinn&repo=skaNote)](https://github.com/0xsheinn/skaNote)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xsheinn&repo=gitfinder)](https://github.com/0xsheinn/gitfinder)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xsheinn&repo=HTB_Invite_Code_Generator)](https://github.com/0xsheinn/HTB_Invite_Code_Generator)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xsheinn&repo=oscp-practice)](https://github.com/0xsheinn/oscp-practice)
 
