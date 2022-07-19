@@ -1,6 +1,6 @@
 [![SheinnKhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xsheinn&show_icons=true&theme=tokyonight&hide=contribs,prs&show_icons=true)](https://github.com/0xsheinn)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xsheinn&theme=onedark)](https://github.com/0xsheinn)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sk4xx&theme=onedark)](https://github.com/0xsheinn)
 
 <p alighn="center">
   
